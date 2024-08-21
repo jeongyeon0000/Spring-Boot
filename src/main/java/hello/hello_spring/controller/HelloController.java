@@ -38,7 +38,7 @@ public class HelloController {
 
     static class Hello{
         private String name;
-// 프로퍼티 접근방식
+        // 프로퍼티 접근방식
         public String getName() {
             return name;
         }
